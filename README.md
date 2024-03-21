@@ -2,7 +2,7 @@
 A PyTorch implementation of “Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning“.
 The paper is under review by Neural Computing and Applications. 
 
-![Overview of GxVAEs](https://github.com/naruto7283/GxVAEs/blob/main/overview.png)
+![Overview of GxVAEs](https://github.com/naruto7283/Gx2Mol/blob/main/gx2mol.png)
 
 ## Objectives 
 GxVAEs aim to
