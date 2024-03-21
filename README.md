@@ -54,6 +54,3 @@ $ source activate gx2mol_env
   ```
   $ python main.py --calculate_tanimoto 
   ```
-
-## Contact
-If you have any questions, please feel free to contact Chen Li at li.chen.z2@a.mail.nagoya-u.ac.jp.
