@@ -1,10 +1,10 @@
-# Implementation of Gx2Mol 
+# Gx2Mol 
 A PyTorch implementation of “Gx2Mol: De Novo Generation of Hit-like Molecules from Gene Expression Profiles via Deep Learning“.
 The paper is under review by Neural Computing and Applications. 
 
-## Gx2Mol aims to
-- employ a VAE to extract features from gene expression profiles
-- and an LSTM to generate hit-like molecules with the conditioned features. 
+## Components
+- A VAE is used to extract features from gene expression profiles
+- and an LSTM is utilized to generate hit-like molecules with the conditioned features. 
 
 ![Overview of Gx2Mol](https://github.com/naruto7283/Gx2Mol/blob/main/gx2mol.png)
 
