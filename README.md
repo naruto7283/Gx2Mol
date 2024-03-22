@@ -18,7 +18,7 @@ $ source activate gx2mol_env
 
 ## File Description
 
-- **The datasets Folder**
+- **datasets**
     - LINCS/mcf7.csv: The training and validation datasets, which consist of gene expression profiles of the MCF7 cell line treated with 13,755 molecules, were used.
     - tools floder
 - **main.py:**: Define the main function for training the GeneVAE and SmilesDecoder models.
